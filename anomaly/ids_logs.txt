@@ -1,0 +1,298 @@
+2025-03-27 20:25:00,070 - \u2705 Normal traffic
+2025-03-27 20:25:00,756 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:01,523 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:02,289 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:03,722 - \u2705 Normal traffic
+2025-03-27 20:25:03,747 - \u2705 Normal traffic
+2025-03-27 20:25:03,781 - \u2705 Normal traffic
+2025-03-27 20:25:10,146 - \u2705 Normal traffic
+2025-03-27 20:25:10,168 - \u2705 Normal traffic
+2025-03-27 20:25:10,199 - \u2705 Normal traffic
+2025-03-27 20:25:10,230 - \u2705 Normal traffic
+2025-03-27 20:25:10,261 - \u2705 Normal traffic
+2025-03-27 20:25:10,285 - \u2705 Normal traffic
+2025-03-27 20:25:10,314 - \u2705 Normal traffic
+2025-03-27 20:25:10,346 - \u2705 Normal traffic
+2025-03-27 20:25:10,380 - \u2705 Normal traffic
+2025-03-27 20:25:10,403 - \u2705 Normal traffic
+2025-03-27 20:25:10,447 - \u2705 Normal traffic
+2025-03-27 20:25:10,469 - \u2705 Normal traffic
+2025-03-27 20:25:10,501 - \u2705 Normal traffic
+2025-03-27 20:25:10,537 - \u2705 Normal traffic
+2025-03-27 20:25:10,565 - \u2705 Normal traffic
+2025-03-27 20:25:10,586 - \u2705 Normal traffic
+2025-03-27 20:25:10,619 - \u2705 Normal traffic
+2025-03-27 20:25:10,647 - \u2705 Normal traffic
+2025-03-27 20:25:10,824 - \u2705 Normal traffic
+2025-03-27 20:25:12,088 - \u2705 Normal traffic
+2025-03-27 20:25:12,117 - \u2705 Normal traffic
+2025-03-27 20:25:15,743 - \u2705 Normal traffic
+2025-03-27 20:25:15,857 - \u2705 Normal traffic
+2025-03-27 20:25:15,891 - \u2705 Normal traffic
+2025-03-27 20:25:15,914 - \u2705 Normal traffic
+2025-03-27 20:25:15,950 - \u2705 Normal traffic
+2025-03-27 20:25:15,978 - \u2705 Normal traffic
+2025-03-27 20:25:15,999 - \u2705 Normal traffic
+2025-03-27 20:25:16,034 - \u2705 Normal traffic
+2025-03-27 20:25:16,063 - \u2705 Normal traffic
+2025-03-27 20:25:16,093 - \u2705 Normal traffic
+2025-03-27 20:25:16,125 - \u2705 Normal traffic
+2025-03-27 20:25:16,148 - \u2705 Normal traffic
+2025-03-27 20:25:16,181 - \u2705 Normal traffic
+2025-03-27 20:25:16,209 - \u2705 Normal traffic
+2025-03-27 20:25:16,242 - \u2705 Normal traffic
+2025-03-27 20:25:16,265 - \u2705 Normal traffic
+2025-03-27 20:25:16,294 - \u2705 Normal traffic
+2025-03-27 20:25:16,321 - \u2705 Normal traffic
+2025-03-27 20:25:16,359 - \u2705 Normal traffic
+2025-03-27 20:25:16,397 - \u2705 Normal traffic
+2025-03-27 20:25:16,425 - \u2705 Normal traffic
+2025-03-27 20:25:16,452 - \u2705 Normal traffic
+2025-03-27 20:25:16,485 - \u2705 Normal traffic
+2025-03-27 20:25:16,512 - \u2705 Normal traffic
+2025-03-27 20:25:16,541 - \u2705 Normal traffic
+2025-03-27 20:25:16,567 - \u2705 Normal traffic
+2025-03-27 20:25:16,595 - \u2705 Normal traffic
+2025-03-27 20:25:16,709 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:29,960 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:25:33,951 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:34,430 - \u2705 Normal traffic
+2025-03-27 20:25:34,452 - \u2705 Normal traffic
+2025-03-27 20:25:34,671 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:35,471 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:25:46,466 - \u2705 Normal traffic
+2025-03-27 20:25:46,481 - \u2705 Normal traffic
+2025-03-27 20:25:58,754 - \u2705 Normal traffic
+2025-03-27 20:25:58,775 - \u2705 Normal traffic
+2025-03-27 20:25:58,795 - \u2705 Normal traffic
+2025-03-27 20:26:00,013 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:26:00,661 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:01,216 - \u2705 Normal traffic
+2025-03-27 20:26:01,416 - \u2705 Normal traffic
+2025-03-27 20:26:01,432 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:02,187 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:23,719 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:24,532 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:25,237 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:27,827 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:29,429 - \u2705 Normal traffic
+2025-03-27 20:26:29,441 - \u2705 Normal traffic
+2025-03-27 20:26:30,057 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:26:31,484 - \u2705 Normal traffic
+2025-03-27 20:26:31,504 - \u2705 Normal traffic
+2025-03-27 20:26:46,447 - \u2705 Normal traffic
+2025-03-27 20:26:46,635 - \u2705 Normal traffic
+2025-03-27 20:26:53,014 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:53,702 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:26:53,802 - \u2705 Normal traffic
+2025-03-27 20:26:53,835 - \u2705 Normal traffic
+2025-03-27 20:26:53,867 - \u2705 Normal traffic
+2025-03-27 20:26:54,532 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:00,106 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:27:00,743 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:01,496 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:02,265 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:04,767 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:04,822 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:04,851 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:04,868 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:04,901 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:04,918 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:05,018 - \u2705 Normal traffic
+2025-03-27 20:27:05,149 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:05,168 - \u2705 Normal traffic
+2025-03-27 20:27:05,190 - \u2705 Normal traffic
+2025-03-27 20:27:05,218 - \u2705 Normal traffic
+2025-03-27 20:27:05,252 - \u2705 Normal traffic
+2025-03-27 20:27:05,269 - \u2705 Normal traffic
+2025-03-27 20:27:05,302 - \u2705 Normal traffic
+2025-03-27 20:27:05,329 - \u2705 Normal traffic
+2025-03-27 20:27:05,363 - \u2705 Normal traffic
+2025-03-27 20:27:05,391 - \u2705 Normal traffic
+2025-03-27 20:27:05,424 - \u2705 Normal traffic
+2025-03-27 20:27:05,458 - \u2705 Normal traffic
+2025-03-27 20:27:05,470 - \u2705 Normal traffic
+2025-03-27 20:27:05,511 - \u2705 Normal traffic
+2025-03-27 20:27:05,537 - \u2705 Normal traffic
+2025-03-27 20:27:05,553 - \u2705 Normal traffic
+2025-03-27 20:27:05,586 - \u2705 Normal traffic
+2025-03-27 20:27:05,603 - \u2705 Normal traffic
+2025-03-27 20:27:05,635 - \u2705 Normal traffic
+2025-03-27 20:27:05,653 - \u2705 Normal traffic
+2025-03-27 20:27:05,686 - \u2705 Normal traffic
+2025-03-27 20:27:05,722 - \u2705 Normal traffic
+2025-03-27 20:27:05,752 - \u2705 Normal traffic
+2025-03-27 20:27:05,790 - \u2705 Normal traffic
+2025-03-27 20:27:05,810 - \u2705 Normal traffic
+2025-03-27 20:27:05,850 - \u2705 Normal traffic
+2025-03-27 20:27:05,932 - \u2705 Normal traffic
+2025-03-27 20:27:06,155 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:06,189 - \u2705 Normal traffic
+2025-03-27 20:27:06,221 - \u2705 Normal traffic
+2025-03-27 20:27:06,241 - \u2705 Normal traffic
+2025-03-27 20:27:06,305 - \u2705 Normal traffic
+2025-03-27 20:27:06,321 - \u2705 Normal traffic
+2025-03-27 20:27:06,355 - \u2705 Normal traffic
+2025-03-27 20:27:06,371 - \u2705 Normal traffic
+2025-03-27 20:27:06,415 - \u2705 Normal traffic
+2025-03-27 20:27:06,441 - \u2705 Normal traffic
+2025-03-27 20:27:06,461 - \u2705 Normal traffic
+2025-03-27 20:27:06,489 - \u2705 Normal traffic
+2025-03-27 20:27:06,522 - \u2705 Normal traffic
+2025-03-27 20:27:06,538 - \u2705 Normal traffic
+2025-03-27 20:27:06,572 - \u2705 Normal traffic
+2025-03-27 20:27:06,589 - \u2705 Normal traffic
+2025-03-27 20:27:06,626 - \u2705 Normal traffic
+2025-03-27 20:27:06,664 - \u2705 Normal traffic
+2025-03-27 20:27:06,689 - \u2705 Normal traffic
+2025-03-27 20:27:06,725 - \u2705 Normal traffic
+2025-03-27 20:27:06,752 - \u2705 Normal traffic
+2025-03-27 20:27:06,775 - \u2705 Normal traffic
+2025-03-27 20:27:06,806 - \u2705 Normal traffic
+2025-03-27 20:27:10,029 - \u2705 Normal traffic
+2025-03-27 20:27:10,304 - \u2705 Normal traffic
+2025-03-27 20:27:10,381 - \u2705 Normal traffic
+2025-03-27 20:27:10,399 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:10,460 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:10,495 - \u2705 Normal traffic
+2025-03-27 20:27:10,514 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:10,529 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:10,761 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:10,776 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:11,048 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:11,520 - \u2705 Normal traffic
+2025-03-27 20:27:11,543 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:11,668 - \u2705 Normal traffic
+2025-03-27 20:27:11,691 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:11,715 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:12,881 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:13,082 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:16,844 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:16,874 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:17,116 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:17,254 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:17,301 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:17,339 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:17,355 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:25,918 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:27,171 - \u2705 Normal traffic
+2025-03-27 20:27:27,839 - \u2705 Normal traffic
+2025-03-27 20:27:27,863 - \u2705 Normal traffic
+2025-03-27 20:27:27,901 - \u2705 Normal traffic
+2025-03-27 20:27:28,023 - \u2705 Normal traffic
+2025-03-27 20:27:28,045 - \u2705 Normal traffic
+2025-03-27 20:27:28,082 - \u2705 Normal traffic
+2025-03-27 20:27:28,110 - \u2705 Normal traffic
+2025-03-27 20:27:28,132 - \u2705 Normal traffic
+2025-03-27 20:27:28,169 - \u2705 Normal traffic
+2025-03-27 20:27:28,194 - \u2705 Normal traffic
+2025-03-27 20:27:28,241 - \u2705 Normal traffic
+2025-03-27 20:27:28,366 - \u2705 Normal traffic
+2025-03-27 20:27:30,159 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:27:33,241 - \u2705 Normal traffic
+2025-03-27 20:27:33,381 - \u2705 Normal traffic
+2025-03-27 20:27:33,452 - \u2705 Normal traffic
+2025-03-27 20:27:33,523 - \u2705 Normal traffic
+2025-03-27 20:27:33,573 - \u2705 Normal traffic
+2025-03-27 20:27:33,624 - \u2705 Normal traffic
+2025-03-27 20:27:33,674 - \u2705 Normal traffic
+2025-03-27 20:27:33,725 - \u2705 Normal traffic
+2025-03-27 20:27:33,806 - \u2705 Normal traffic
+2025-03-27 20:27:33,866 - \u2705 Normal traffic
+2025-03-27 20:27:33,927 - \u2705 Normal traffic
+2025-03-27 20:27:33,987 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:34,028 - \u2705 Normal traffic
+2025-03-27 20:27:34,077 - \u2705 Normal traffic
+2025-03-27 20:27:34,129 - \u2705 Normal traffic
+2025-03-27 20:27:34,177 - \u2705 Normal traffic
+2025-03-27 20:27:34,230 - \u2705 Normal traffic
+2025-03-27 20:27:34,278 - \u2705 Normal traffic
+2025-03-27 20:27:34,341 - \u2705 Normal traffic
+2025-03-27 20:27:34,399 - \u2705 Normal traffic
+2025-03-27 20:27:34,452 - \u2705 Normal traffic
+2025-03-27 20:27:34,523 - \u2705 Normal traffic
+2025-03-27 20:27:34,582 - \u2705 Normal traffic
+2025-03-27 20:27:34,634 - \u2705 Normal traffic
+2025-03-27 20:27:34,691 - \u2705 Normal traffic
+2025-03-27 20:27:34,756 - \u2705 Normal traffic
+2025-03-27 20:27:34,817 - \u2705 Normal traffic
+2025-03-27 20:27:34,877 - \u2705 Normal traffic
+2025-03-27 20:27:34,918 - \u2705 Normal traffic
+2025-03-27 20:27:35,017 - \u2705 Normal traffic
+2025-03-27 20:27:35,051 - \u2705 Normal traffic
+2025-03-27 20:27:35,118 - \u2705 Normal traffic
+2025-03-27 20:27:35,161 - \u2705 Normal traffic
+2025-03-27 20:27:35,200 - \u2705 Normal traffic
+2025-03-27 20:27:35,244 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:35,284 - \u2705 Normal traffic
+2025-03-27 20:27:35,335 - \u2705 Normal traffic
+2025-03-27 20:27:35,378 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:27:35,428 - \u2705 Normal traffic
+2025-03-27 20:37:41,808 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:37:42,596 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:37:43,364 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:37:52,605 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:37:52,821 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:37:52,859 - \u2705 Normal traffic
+2025-03-27 20:37:53,422 - \u2705 Normal traffic
+2025-03-27 20:37:53,460 - \u2705 Normal traffic
+2025-03-27 20:37:54,270 - \u2705 Normal traffic
+2025-03-27 20:37:54,300 - \u2705 Normal traffic
+2025-03-27 20:37:54,329 - \u2705 Normal traffic
+2025-03-27 20:37:55,756 - \u2705 Normal traffic
+2025-03-27 20:37:55,766 - \u2705 Normal traffic
+2025-03-27 20:38:00,919 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:38:01,690 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:38:02,443 - \U0001f6a8 Anomaly detected! (Proba: 0.3500)
+2025-03-27 20:38:06,221 - \u2705 Normal traffic
+2025-03-27 20:38:06,253 - \u2705 Normal traffic
+2025-03-27 20:38:09,292 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:38:39,341 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:39:09,387 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:39:39,425 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:40:09,481 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:40:39,533 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:41:09,576 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:41:39,627 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:42:09,688 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:42:39,725 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:43:10,132 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:43:40,216 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:44:10,260 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:44:40,288 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:45:10,327 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:45:40,410 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:46:10,467 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:46:40,516 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:47:10,553 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:47:40,578 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:48:10,616 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:48:40,667 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:49:10,736 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:49:40,776 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:50:10,847 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:50:40,892 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:51:10,940 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:51:40,994 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:52:11,025 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:52:41,064 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:53:11,108 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:53:41,158 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:54:11,210 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:54:41,249 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:55:11,283 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:55:41,327 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:56:11,389 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:56:41,416 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:57:11,481 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:57:41,532 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:58:11,571 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:58:41,635 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:59:11,686 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 20:59:41,732 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 21:00:11,789 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 21:00:41,958 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 21:01:12,020 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 21:01:42,079 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 21:02:12,125 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
+2025-03-27 21:02:42,284 - Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000, ROC-AUC: nan
