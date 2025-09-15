@@ -1,0 +1,691 @@
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57328 > 13.89.179.11:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57330 > 52.182.141.63:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57337 > 52.182.141.63:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57338 > 104.208.16.88:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57347 > 20.189.173.6:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.132:62578 > 142.250.182.14:https / Raw
+[ALERT] UDP Flood: Ether / IP / UDP 142.250.182.14:https > 192.168.0.132:62578 / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57349 > 13.89.179.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57350 > 23.62.12.40:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57352 > 23.203.63.41:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57353 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57355 > 204.79.197.203:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57363 > 52.182.143.214:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57364 > 52.182.143.214:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57366 > 52.182.143.214:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57367 > 52.182.143.214:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57369 > 52.182.143.214:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.132:62578 > 142.250.182.14:https / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57371 > 52.182.143.214:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57372 > 52.182.143.214:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57373 > 20.189.173.15:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57407 > 40.79.173.40:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57408 > 40.79.173.40:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57410 > 40.79.173.40:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57411 > 40.79.173.40:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57412 > 40.79.173.40:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57413 > 40.79.173.40:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57423 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57424 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57425 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57426 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57431 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57432 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57434 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57435 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57436 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57443 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57444 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57445 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57446 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57447 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57448 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57461 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57463 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57464 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57465 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57466 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57467 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57468 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57469 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57473 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57486 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57487 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57488 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57489 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57490 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57491 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57506 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57507 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57508 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57516 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57517 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57518 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57526 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57527 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57528 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57530 > 20.189.173.22:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57533 > 13.107.5.93:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57546 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57547 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57548 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57557 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57558 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57559 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57560 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57561 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57562 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57569 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57570 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57577 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57578 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57579 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57580 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57583 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57592 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57593 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57594 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57601 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57602 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57603 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57608 > 183.82.248.58:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57615 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57616 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57617 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57618 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57619 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57632 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57633 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57634 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57635 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57637 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57638 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57639 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57640 > 13.107.5.93:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.132:62578 > 142.250.182.14:https / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57641 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57648 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57649 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57650 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57657 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57658 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57659 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57667 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57668 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57669 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57676 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57677 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57678 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57686 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57687 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57688 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57689 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57692 > 192.168.0.1:domain S
+[ALERT] UDP Flood: Ether / IP / UDP 142.250.182.14:https > 192.168.0.132:62578 / Raw
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.132:62578 > 142.250.182.14:https / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57721 > 20.189.173.2:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57722 > 20.189.173.2:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57775 > 104.208.16.90:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57776 > 3.111.224.186:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57779 > 20.189.173.6:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57782 > 20.189.173.6:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57783 > 20.189.173.6:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57787 > 20.189.173.12:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.132:62578 > 142.250.182.14:https / Raw
+[ALERT] UDP Flood: Ether / IP / UDP 142.250.182.14:https > 192.168.0.132:62578 / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57792 > 20.189.173.12:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57800 > 13.89.178.26:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57805 > 20.189.173.6:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:57806 > 20.189.173.6:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58463 > 23.53.128.229:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58464 > 23.53.128.229:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58467 > 43.175.154.13:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58469 > 23.53.128.229:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58472 > 43.175.154.13:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58473 > 43.175.154.13:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58474 > 20.189.173.16:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58475 > 51.116.246.106:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58476 > 51.116.246.106:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58477 > 51.116.246.106:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58485 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58494 > 20.189.173.17:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58495 > 20.189.173.17:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58504 > 20.44.10.123:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58508 > 52.182.143.211:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58510 > 20.44.10.123:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58513 > 20.44.10.123:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58514 > 54.148.86.228:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58516 > 54.148.86.228:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58518 > 40.79.150.121:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58521 > 20.44.10.123:https S
+[ALERT] UDP Flood: Ether / IP / UDP / mDNS Qry b'_spotify-connect._tcp.local.'
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58526 > 20.44.10.123:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58529 > 23.62.12.40:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58531 > 51.104.15.253:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58536 > 51.104.15.253:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58553 > 51.104.15.253:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58560 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58561 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58562 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58563 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58568 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58569 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58573 > 20.52.64.200:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58581 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58582 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58583 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58590 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58591 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58592 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58594 > 20.52.64.200:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58595 > 20.52.64.200:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58596 > 20.52.64.200:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58598 > 20.52.64.200:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58599 > 20.52.64.200:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58608 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58609 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58610 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58617 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58618 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58619 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58620 > 20.189.173.1:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58627 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58628 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58629 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58630 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58762 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58763 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58764 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58765 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58770 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58771 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58776 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58777 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58778 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58779 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58780 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58781 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58782 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58783 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58784 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58799 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58802 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58803 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58804 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58805 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58806 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58807 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58808 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58809 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58828 > 122.187.117.187:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58829 > 122.187.117.187:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58830 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58831 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58832 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58840 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58841 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58842 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58849 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58850 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58851 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58858 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58859 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58860 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58869 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58870 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58875 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58876 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58878 > 52.182.141.63:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58879 > 20.189.173.3:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58880 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58881 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58882 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58883 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58888 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58889 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58899 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58900 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58901 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58904 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58913 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58914 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58915 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58916 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58919 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58928 > 20.189.173.20:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58929 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58930 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58931 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58932 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58935 > 192.168.0.1:domain S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58947 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58948 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58949 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58956 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58957 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58958 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58969 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58970 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58971 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58978 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58979 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:58980 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59162 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59163 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59164 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59168 > 20.189.173.23:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59177 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59178 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59179 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59180 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59183 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59195 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59196 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59201 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59202 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59203 > 192.168.0.1:domain S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59211 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59212 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59213 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59214 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59217 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59222 > 20.42.65.85:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59223 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59224 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59225 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59226 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59229 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59234 > 20.42.65.85:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59235 > 20.42.65.85:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59237 > 20.42.65.85:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59238 > 20.42.65.85:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59239 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59240 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59241 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59242 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59243 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59244 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59245 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59248 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59254 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59255 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59265 > 20.42.73.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59267 > 20.42.65.85:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59271 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59272 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59273 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59280 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59281 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59291 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59292 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59293 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59300 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59301 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59302 > 192.168.0.1:domain S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59311 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59312 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59313 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59320 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59321 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59322 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59329 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59330 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59331 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59332 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59333 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59334 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59335 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59336 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59339 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59342 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59343 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59344 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59345 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59346 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59347 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59348 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59468 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59469 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59470 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59477 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59478 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59479 > 192.168.0.1:domain S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59486 > 20.42.73.30:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59487 > 20.189.173.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59488 > 20.189.173.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59489 > 20.189.173.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59490 > 20.189.173.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59491 > 20.189.173.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:59492 > 20.189.173.26:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60355 > 104.208.16.89:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60356 > 20.106.86.13:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60357 > 13.93.211.12:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60357 > 13.93.211.12:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60357 > 13.93.211.12:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60358 > 104.208.16.89:https S
+[ALERT] UDP Flood: Ether / IP / UDP 192.168.0.1:52681 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60360 > 13.69.109.130:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60361 > 104.208.16.89:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60362 > 192.168.0.1:45514 S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60363 > 192.168.0.1:6352 S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60374 > 13.107.49.254:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60375 > 204.79.197.222:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60376 > 104.208.16.89:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60377 > 23.53.128.229:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60378 > 104.208.16.89:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60380 > 204.79.197.200:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60383 > 20.42.73.25:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60384 > 20.190.146.36:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60385 > 20.190.146.36:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60389 > 20.255.46.225:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60398 > 20.212.88.117:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60399 > 20.190.146.34:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60400 > 20.42.73.25:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60401 > 204.79.197.212:http S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60406 > 20.190.146.36:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60407 > 13.107.5.80:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60412 > 20.42.73.25:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60418 > 13.107.5.80:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60420 > 20.42.73.25:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60426 > 13.107.42.254:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60428 > 20.42.73.25:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.132:60429 > 20.42.73.25:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52453 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52454 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52455 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52457 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52458 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52460 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52461 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52462 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52466 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52467 > 44.239.113.251:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52469 > 20.189.173.10:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:52684 > 20.189.173.7:https S
+2025-03-27 22:28:16 Packet: Ether / IP / TCP 192.168.0.136:56310 > 131.253.33.203:https FA
+2025-03-27 22:28:16 Packet: Ether / IP / TCP 131.253.33.203:https > 192.168.0.136:56310 A
+2025-03-27 22:28:16 Packet: Ether / IP / TCP 131.253.33.203:https > 192.168.0.136:56310 FA
+2025-03-27 22:28:16 Packet: Ether / IP / TCP 192.168.0.136:56310 > 131.253.33.203:https A
+2025-03-27 22:28:22 Packet: Ether / IP / UDP / mDNS Qry b'125.1.168.192.in-addr.arpa.'
+2025-03-27 22:28:22 Packet: Ether / IP / UDP / mDNS Qry b'125.1.168.192.in-addr.arpa.'
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:llmnr > 224.0.0.252:llmnr / LLMNRQuery who has '193.0.168.192.in-addr.arpa.'
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:22 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / TCP 192.168.0.136:56210 > 64.233.170.188:5228 A / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / TCP 192.168.0.136:56208 > 64.233.170.188:5228 A / Raw
+2025-03-27 22:28:23 Packet: Ether / IP / TCP 64.233.170.188:5228 > 192.168.0.136:56210 A
+2025-03-27 22:28:23 Packet: Ether / IP / TCP 64.233.170.188:5228 > 192.168.0.136:56208 A
+2025-03-27 22:28:27 Packet: Ether / IP / UDP / NBNSHeader / NBNSNodeStatusRequest who has '\\*              '
+2025-03-27 22:28:27 Packet: Ether / IP / UDP / mDNS Qry b'136.0.168.192.in-addr.arpa.'
+2025-03-27 22:28:27 Packet: Ether / IP / TCP 192.168.0.136:56317 > 23.58.31.18:http FA
+2025-03-27 22:28:27 Packet: Ether / IP / TCP 23.58.31.18:http > 192.168.0.136:56317 FA
+2025-03-27 22:28:27 Packet: Ether / IP / TCP 192.168.0.136:56317 > 23.58.31.18:http A
+2025-03-27 22:28:27 Packet: Ether / IP / UDP 192.168.0.1:llmnr > 224.0.0.252:llmnr / LLMNRQuery who has '136.0.168.192.in-addr.arpa.'
+2025-03-27 22:28:29 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https PA / Raw
+2025-03-27 22:28:29 Packet: Ether / IP / TCP 34.237.73.95:https > 192.168.0.136:56226 PA / Raw
+2025-03-27 22:28:29 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https A
+2025-03-27 22:28:34 Packet: Ether / 192.168.0.123 > 224.0.0.2 2 / Raw
+2025-03-27 22:28:34 Packet: Ether / IP / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-03-27 22:28:34 Packet: Ether / 192.168.0.1 > 224.0.0.251 2 / Raw
+2025-03-27 22:28:34 Packet: Ether / 192.168.0.136 > 224.0.0.22 2 / Raw
+2025-03-27 22:28:35 Packet: Ether / IP / UDP / mDNS Qry b'_companion-link._tcp.local.'
+2025-03-27 22:28:35 Packet: Ether / 192.168.0.1 > 224.0.0.251 2 / Raw
+2025-03-27 22:28:35 Packet: Ether / 192.168.0.136 > 224.0.0.22 2 / Raw
+2025-03-27 22:28:45 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https PA / Raw
+2025-03-27 22:28:45 Packet: Ether / IP / TCP 34.237.73.95:https > 192.168.0.136:56226 PA / Raw
+2025-03-27 22:28:45 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https A
+2025-03-27 22:28:46 Packet: Ether / IP / TCP 34.237.73.95:https > 192.168.0.136:56226 PA / Raw
+2025-03-27 22:28:46 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https PA / Raw
+2025-03-27 22:28:46 Packet: Ether / IP / TCP 34.237.73.95:https > 192.168.0.136:56226 A
+2025-03-27 22:28:48 Packet: Ether / IP / UDP 192.168.0.1:llmnr > 224.0.0.252:llmnr / LLMNRQuery who has '159.0.168.192.in-addr.arpa.'
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:52 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+2025-03-27 22:28:53 Packet: Ether / IP / UDP 192.168.0.1:54557 > 239.255.255.250:ssdp / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https S
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https S
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 SA
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:28:54 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:55 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:56 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:28:57 Packet: Ether / IP / UDP 192.168.0.1:llmnr > 224.0.0.252:llmnr / LLMNRQuery who has '189.0.168.192.in-addr.arpa.'
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:28:59 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https PA / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 34.237.73.95:https > 192.168.0.136:56226 A
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 34.237.73.95:https > 192.168.0.136:56226 PA / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56226 > 34.237.73.95:https A
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:01 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:03 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:29:03 Packet: Ether / IP / UDP / mDNS Qry b'129.1.168.192.in-addr.arpa.'
+2025-03-27 22:29:03 Packet: Ether / IP / UDP / mDNS Qry b'129.1.168.192.in-addr.arpa.'
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:05 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:29:05 Packet: Ether / 192.168.0.1 > 224.0.0.1 2 / Raw
+2025-03-27 22:29:05 Packet: Ether / 192.168.0.189 > 224.0.0.22 2 / Raw
+2025-03-27 22:29:06 Packet: Ether / 192.168.0.136 > 224.0.0.22 2 / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:07 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 192.168.0.136:56210 > 64.233.170.188:5228 A / Raw
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 192.168.0.136:56208 > 64.233.170.188:5228 A / Raw
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 64.233.170.188:5228 > 192.168.0.136:56210 A
+2025-03-27 22:29:08 Packet: Ether / IP / TCP 64.233.170.188:5228 > 192.168.0.136:56208 A
+2025-03-27 22:29:09 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:09 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:09 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:09 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:10 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https PA / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 A
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 20.189.173.15:https > 192.168.0.136:56323 PA / Raw
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56323 > 20.189.173.15:https A
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.0.136:56324 > 20.42.73.24:https S
+2025-03-27 22:29:12 Packet: Ether / IP / TCP 192.168.0.136:56324 > 20.42.73.24:https S
+2025-03-27 22:29:13 Packet: Ether / IP / TCP 20.42.73.24:https > 192.168.0.136:56324 SA
+2025-03-27 22:29:13 Packet: Ether / IP / TCP 192.168.0.136:56324 > 20.42.73.24:https A
+2025-03-27 22:29:13 Packet: Ether / IP / TCP 192.168.0.136:56324 > 20.42.73.24:https PA / Raw
+2025-03-27 22:29:13 Packet: Ether / IP / UDP 192.168.0.1:llmnr > 224.0.0.252:llmnr / LLMNRQuery who has '123.0.168.192.in-addr.arpa.'
+2025-03-27 22:29:13 Packet: Ether / IP / TCP 20.42.73.24:https > 192.168.0.136:56324 PA / Raw
+2025-03-27 22:29:13 Packet: Ether / IP / TCP 192.168.0.136:56324 > 20.42.73.24:https PA / Raw
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60017 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60018 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60019 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60020 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60021 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60022 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60023 > 13.107.5.93:https S
+[ALERT] SYN Flood: Ether / IP / TCP 192.168.242.52:60024 > 23.205.118.16:http S
