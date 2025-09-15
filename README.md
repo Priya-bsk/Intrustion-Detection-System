@@ -37,19 +37,19 @@ Both modules run *separately* but complement each other, providing *real-time mo
 
 ## 🖥 Dashboards & Visualizations  
 
-🔴 *Signature-based Intrusion Detection Logs* 
+*Signature-based Intrusion Detection Logs* 
 <img width="1558" height="883" alt="image" src="https://github.com/user-attachments/assets/21d0c454-5b94-44d8-ba36-eb6cc524d417" />
 
-📊 *Real-Time IDS Anomaly Dashboard*
+ *Real-Time IDS Anomaly Dashboard*
 <img width="671" height="528" alt="image" src="https://github.com/user-attachments/assets/04f3a67c-1236-46ed-b88f-5d1d4c42c111" />
 
-📈 *Anomaly Detection Over Time* 
+ *Anomaly Detection Over Time* 
 <img width="692" height="320" alt="image" src="https://github.com/user-attachments/assets/3e270830-e59b-49ca-9aed-bab15a4c61bf" />
 
-📊 *Anomaly Count vs Normal Traffic*  
+ *Anomaly Count vs Normal Traffic*  
 <img width="738" height="520" alt="image" src="https://github.com/user-attachments/assets/e2b79585-5c5a-40f7-af81-6bc790f09339" />
 
-⚠ *Detected Anomalies with Probability*  
+*Detected Anomalies with Probability*  
 <img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/e846b080-49c9-4136-8239-d1be427e45ac" />
 
 ---
