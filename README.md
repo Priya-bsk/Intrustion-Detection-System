@@ -1,6 +1,6 @@
-# 🔐 Intrusion Detection System (IDS)  
+#  Intrusion Detection System (IDS)  
 *Hybrid IDS using Signature-based + Anomaly-based Detection*  
-✨ Random Forest Classifier with 99.87% Accuracy  
+ Random Forest Classifier with 99.87% Accuracy  
 
 ---
 
@@ -8,17 +8,13 @@
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-RandomForest-green?logo=scikit-learn" />
   <img src="https://img.shields.io/badge/Accuracy-99.87%25-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/github/license/yourusername/Intrusion-detection-system" />
+
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/Intrusion-detection-system?style=social" />
-  <img src="https://img.shields.io/github/forks/yourusername/Intrusion-detection-system?style=social" />
-</p>
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 
 This project implements a *hybrid Intrusion Detection System (IDS)* with two integrated components:  
 
@@ -29,7 +25,7 @@ Both modules run *separately* but complement each other, providing *real-time mo
 
 ---
 
-## ⚙ Features  
+##  Features  
 
 ✔ *Signature-based packet inspection & rule alerts*  
 ✔ *Anomaly-based detection with Random Forest ML model*  
@@ -60,7 +56,7 @@ Both modules run *separately* but complement each other, providing *real-time mo
 
 ## 📊 Model Performance  
 
-- *Algorithm:* Random Forest Classifier 🌲  
+- *Algorithm:* Random Forest Classifier 
 - *Accuracy:* *99.87%*  
 - *Dataset:* [Specify dataset → NSL-KDD / CICIDS]  
 - *Metrics:* Precision, Recall, F1-score  
