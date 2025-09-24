@@ -1,13 +1,13 @@
 #  Intrusion Detection System (IDS)  
 *Hybrid IDS using Signature-based + Anomaly-based Detection*  
- Random Forest Classifier with 99.87% Accuracy  
+ Random Forest Classifier 
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-RandomForest-green?logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Accuracy-99.87%25-brightgreen?style=flat-square" />
+ 
 
 </p>
 
