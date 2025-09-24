@@ -4,15 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-RandomForest-green?logo=scikit-learn" />
- 
-
-</p>
-
-
----
 
 ## Project Overview  
 
