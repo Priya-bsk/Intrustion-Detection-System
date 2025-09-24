@@ -10,7 +10,7 @@
 This project implements a *hybrid Intrusion Detection System (IDS)* with two integrated components:  
 
 🔹 *Signature-based detection* → Identifies *known attacks* via rule-based matching.  
-🔹 *Anomaly-based detection (Random Forest)* → Detects *unknown threats* with *99.87% accuracy*.  
+🔹 *Anomaly-based detection (Random Forest)* → Detects *unknown threats* 
 
 Both modules run *separately* but complement each other, providing *real-time monitoring dashboards* and rich visualizations.  
 
@@ -48,9 +48,8 @@ Both modules run *separately* but complement each other, providing *real-time mo
 ## 📊 Model Performance  
 
 - *Algorithm:* Random Forest Classifier 
-- *Accuracy:* *99.87%*  
 - *Dataset:* [Specify dataset → NSL-KDD / CICIDS]  
-- *Metrics:* Precision, Recall, F1-score  
+- *Metrics:* Accuracy, Precision, Recall, F1-score  
 
 
 ---
